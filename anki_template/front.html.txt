@@ -1,0 +1,2 @@
+<div style='font-family: Arial; font-size: 20px;'>{{front}}</div>
+<p style='color:gray;font-family: Arial; font-size: 12px;'>({{type}} card)</p>

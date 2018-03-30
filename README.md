@@ -25,7 +25,7 @@ Install the script in your tampermonkey browser plugin and you will automagicall
 
 After you refresh your bunpro page you will see something like that.
 
-![import dialogue](img/スクリーンショット01.jpg)
+![import dialogue](/img/スクリーンショット01.jpg)
 
 
 # usage from the developer tools
@@ -52,9 +52,9 @@ Anki users probably already invested a bit of money to get cloud sync and native
 7. Create a beautiful template for your cards. I provide my simple ones in the ```anki_template``` [subfolder](anki_template/). However, do not waste your time with inputting the text in anki... better write them on paper or use the actual bunpro page if that is a major concern for you.
 8. Make sure you sort your cards by the index field, you might want to use anki plugins for that (however if you already studied the grammar that should not be a major issue either).
 
-![A new card with the next fields](img/スクリーンショット00.jpg)
-![import dialogue](img/スクリーンショット02.jpg)
-![the | separator for the CSV](img/スクリーンショット03.jpg)
+![A new card with the next fields](/img/スクリーンショット00.jpg)
+![import dialogue](/img/スクリーンショット02.jpg)
+![the | separator for the CSV](/img/スクリーンショット03.jpg)
 
 
 

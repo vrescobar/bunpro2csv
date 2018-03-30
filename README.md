@@ -25,7 +25,7 @@ Install the script in your tampermonkey browser plugin and you will automagicall
 
 After you refresh your bunpro page you will see something like that.
 
-![import dialogue](https://raw.githubusercontent.com/vrescobar/bunpro2csv/master/img/スクリーンショット01.png?raw=true)
+![import dialogue](https://github.com/vrescobar/bunpro2csv/blob/master/img/スクリーンショット01.png?raw=true)
 
 
 # usage from the developer tools

@@ -95,13 +95,13 @@ function download_grammar_point() {
 
 (function() {
         var button = document.createElement('div');
-        button.setAttribute("class", "study-review btn-primary btn");
+        button.setAttribute("class", "review-button btn");
         button.innerText = button.innerText +  "Download CSV for anki";
         button.onclick =　function(event) {
             download_grammar_point();
             event.stopPropagation();
         };
-        var toolbox = document.querySelector("body > div.container > div.section > div.row-fluid > section > div > div.study-info.meaning > div > div > div:nth-child(4)");
+        var toolbox = document.getElementsByClassName("review-button")[0].parentElement;
         toolbox.appendChild(button);
 })()
 

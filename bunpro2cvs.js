@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BunPRO to CVS downloader
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Download current grammar point and example as CSV for easy anki importation
 // @author       You
 // @match        https://bunpro.jp/grammar_points/*

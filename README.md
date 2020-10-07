@@ -32,11 +32,11 @@ After you refresh your bunpro page you will see something like that.
 
 Tested only on google chrome and safari.
 
-1.- Browse to the grammar point you want to backup.
-2.- Open the developer tools panel (usually contol + J) and find the javascript console
-3.- copy and paste the function ```download_grammar_point``` from the ```bunpro2cvs.js``` file.
-4.- type in the javascript console ```download_grammar_point()```
-5.- Your download should have started automatically.
+1. Browse to the grammar point you want to backup.
+2. Open the developer tools panel (usually contol + J) and find the javascript console
+3. copy and paste the function ```download_grammar_point``` from the ```bunpro2cvs.js``` file.
+4. type in the javascript console ```download_grammar_point()```
+5. Your download should have started automatically.
 
 
 # How to import to Anki
@@ -65,8 +65,8 @@ Mass distribution of partly or completely ripped contents might be illegal in yo
 
 # Contributions, usage and license
 
-I created this script to my own personal use because that was the fastest way for me to get this feautre. now I want to give back to the community which has contributed largely and without interest to many learning resources.
+I created this script to my own personal usage because that was the fastest way for me to get this feature. Now I want to give back to the community which has contributed largely and without any interest to many language students.
 
-I won't update or improve the script after PRs, if you want this feature so bad please consider asking the bunpro administrators for it.
+I won't update or improve the script, if you want this feature so bad please consider asking the bunpro administrators for it or do a PR (remember to update the tampermonkey version).
 
 The script is licensed as MIT (aka you can do whatever you want with it).
